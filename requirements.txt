@@ -1,0 +1,6 @@
+transformers
+fastapi
+uvicorn[standard]
+pydantic
+dnspython
+python-dotenv
