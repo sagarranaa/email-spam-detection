@@ -5,6 +5,9 @@ Mailwatch is a locally hosted, read-only email analysis MVP built with FastAPI, 
 
 ## Features
 
+<img width="1920" height="1080" alt="Screenshot from 2026-11-24 15-42-16" src="https://github.com/user-attachments/assets/3f016497-f2a8-45ad-9f3c-d2ce52b7dfe7" />
+
+
 - Paste an email or load a saved `.eml` message.
 - Connect Gmail and sync/scan the 10 newest Inbox messages after the account owner grants read-only access.
 - Inspect email text for common social-engineering phrases and URLs for visible risk indicators. Links are never opened.
